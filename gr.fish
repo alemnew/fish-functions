@@ -1,4 +1,4 @@
 # Defined in - @ line 2
-function ga
-	git add -u
+function gr
+	git review
 end

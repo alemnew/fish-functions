@@ -1,3 +1,3 @@
 function ospd
-	openstack port delete $1 $2
+	openstack port delete $1
 end

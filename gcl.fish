@@ -1,3 +1,3 @@
 function gcl
-	git clone 
+    git clone $argv
 end

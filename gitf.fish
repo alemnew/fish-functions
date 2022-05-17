@@ -1,3 +1,3 @@
 function gitf
-	git fetch
+    git fetch $argv
 end

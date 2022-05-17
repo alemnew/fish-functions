@@ -1,3 +1,3 @@
 function gitrb
-	git rebase origin/master
+    git rebase origin/develop
 end
